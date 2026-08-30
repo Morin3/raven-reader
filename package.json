@@ -48,7 +48,7 @@
     "i18next-electron-language-detector": "^0.0.10",
     "i18next-fs-backend": "^2.1.1",
     "jquery": "^3.6.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.1",
     "lovefield": "^2.1.12",
     "md5": "^2.3.0",
     "node-fetch": "^2.6.7",
